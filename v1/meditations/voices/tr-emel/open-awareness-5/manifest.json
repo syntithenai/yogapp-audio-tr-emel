@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 147,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldin.",
+      "file": "c000.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu al, eğer daha iyi hissediyorsan uzan.",
+      "file": "c001.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 2,
+      "text": "Ellerin rahatça dursun.",
+      "file": "c002.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 3,
+      "text": "Gözlerini yumuşat, ya da kapat.",
+      "file": "c003.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 4,
+      "text": "Yavaşça bir nefes al.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes ver.",
+      "file": "c005.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 6,
+      "text": "Birkaç döngü için nefese başla.",
+      "file": "c006.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 7,
+      "text": "[durdur:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 8,
+      "text": "Şimdi genişlet. Sesleri de dahil et.",
+      "file": "c008.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 9,
+      "text": "Yakın. Uzak. Değişen. Sabit.",
+      "file": "c009.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 10,
+      "text": "[durdur:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 11,
+      "text": "Vücuttaki hisleri de dahil et.",
+      "file": "c011.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 12,
+      "text": "Temas noktaları. Sıcaklık. Yumuşak nabız.",
+      "file": "c012.ogg",
+      "durationSec": 9.96
+    },
+    {
+      "index": 13,
+      "text": "[durdur:28]",
+      "file": "c013.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 14,
+      "text": "Odanın boşluğunu da dahil et.",
+      "file": "c014.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 15,
+      "text": "Açık gökyüzü gibi farkındalık.",
+      "file": "c015.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 16,
+      "text": "[durdur:34]",
+      "file": "c016.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 17,
+      "text": "Düşünceler hava gibi ortaya çıkabilir.",
+      "file": "c017.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 18,
+      "text": "Onları kovalamaya veya itmeye gerek yok.",
+      "file": "c018.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 19,
+      "text": "Gökyüzü hâlâ orada.",
+      "file": "c019.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 20,
+      "text": "[durdur:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 21,
+      "text": "Bu açık alanda dinlen.",
+      "file": "c021.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 22,
+      "text": "[durdur:45]",
+      "file": "c022.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 23,
+      "text": "Bir sonraki rahat nefesini al.",
+      "file": "c023.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 24,
+      "text": "Parmakları sallayın.",
+      "file": "c024.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 25,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c025.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 26,
+      "text": "Biraz bunu yanınızda taşıyın.",
+      "file": "c026.ogg",
+      "durationSec": 4.896
+    }
+  ]
+}

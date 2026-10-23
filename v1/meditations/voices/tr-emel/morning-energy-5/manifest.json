@@ -1,0 +1,412 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 353,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Günaydın.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "Günü karşılamak için kısa bir uygulamaya hoş geldiniz.",
+      "file": "c001.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 2,
+      "text": "Dik oturun, ya da daha iyi hissediyorsanız ayakta durun.",
+      "file": "c002.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 3,
+      "text": "Gözlerinizi yumuşatın ya da kapayın.",
+      "file": "c003.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 4,
+      "text": "Ayaklarınızı zeminde hissedin.",
+      "file": "c004.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 5,
+      "text": "Burnunuzdan yavaşça bir nefes alın.",
+      "file": "c005.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 6,
+      "text": "Ağızınızdan daha dolu bir nefes verin.",
+      "file": "c006.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 7,
+      "text": "Tekrar. Yumuşak bir nefes alın.",
+      "file": "c007.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 8,
+      "text": "Tamamen nefes verin.",
+      "file": "c008.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 9,
+      "text": "Bir tane daha. Göğsünüzü doldurun.",
+      "file": "c009.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 10,
+      "text": "Tamamen boşaltın.",
+      "file": "c010.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 11,
+      "text": "[durdur:4]",
+      "file": "c011.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 12,
+      "text": "Günü sıkıştırarak değil, ileride bakın.",
+      "file": "c012.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 13,
+      "text": "Henüz tüm haritaya ihtiyacınız yok.",
+      "file": "c013.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 14,
+      "text": "Sadece bir sonraki dürüst adım.",
+      "file": "c014.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 15,
+      "text": "[durdur:5]",
+      "file": "c015.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 16,
+      "text": "Dört saniye boyunca nefes alın.",
+      "file": "c016.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 17,
+      "text": "İki. Üç. Dört.",
+      "file": "c017.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 18,
+      "text": "Dört saniye boyunca nefes verin.",
+      "file": "c018.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 19,
+      "text": "İki. Üç. Dört.",
+      "file": "c019.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 20,
+      "text": "Yine, kendi hızınızda.",
+      "file": "c020.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 21,
+      "text": "[durdur:6]",
+      "file": "c021.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 22,
+      "text": "Ellerdeki sıcaklığı hissedin.",
+      "file": "c022.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 23,
+      "text": "Bacaklarda hazır olma hissini hissedin.",
+      "file": "c023.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 24,
+      "text": "[durdur:4]",
+      "file": "c024.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 25,
+      "text": "Omuzları yukarı, geri ve aşağı doğru yuvarlayın.",
+      "file": "c025.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 26,
+      "text": "Çeneyi gevşetin.",
+      "file": "c026.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 27,
+      "text": "Karnı yumuşatın.",
+      "file": "c027.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 28,
+      "text": "Vücutta kalan uyku hissini fark edin.",
+      "file": "c028.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 29,
+      "text": "Onu uzaklaştırmak zorunda değilsiniz.",
+      "file": "c029.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 30,
+      "text": "Ribslerin yanlarına nefes alın.",
+      "file": "c030.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 31,
+      "text": "Ve nefes verirken onları daraltın.",
+      "file": "c031.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 32,
+      "text": "[durdur:5]",
+      "file": "c032.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 33,
+      "text": "Şimdi nefese biraz parlaklık getirin.",
+      "file": "c033.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 34,
+      "text": "İçten uyanıyormuş gibi nefes alın.",
+      "file": "c034.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 35,
+      "text": "Dünki ağır şeyleri nefes verin.",
+      "file": "c035.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 36,
+      "text": "İhtimali nefes alın.",
+      "file": "c036.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 37,
+      "text": "Henüz gerekli olmayan çabayı nefes verin.",
+      "file": "c037.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 38,
+      "text": "[durdur:4]",
+      "file": "c038.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 39,
+      "text": "Bir eli kalbe koyun ya da iki eli dizlerinizin üzerine koyun.",
+      "file": "c039.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 40,
+      "text": "Sessizce ya da sadece dinleyerek, şu ifadeleri deneyin.",
+      "file": "c040.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 41,
+      "text": "Buradayım.",
+      "file": "c041.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 42,
+      "text": "Yeniden başlıyorum.",
+      "file": "c042.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 43,
+      "text": "Bu sabah için yeterliyim.",
+      "file": "c043.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 44,
+      "text": "[durdur:4]",
+      "file": "c044.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 45,
+      "text": "Düzenli bir şekilde hareket ediyorum.",
+      "file": "c045.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 46,
+      "text": "Bir açık zihinle gelenlere karşı çıkıyorum.",
+      "file": "c046.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 47,
+      "text": "Bugün yer kaplamama izin veriliyor.",
+      "file": "c047.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 48,
+      "text": "[durdur:5]",
+      "file": "c048.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 49,
+      "text": "Bugün için bir net niyet seçiyorum.",
+      "file": "c049.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 50,
+      "text": "Basit olabilir.",
+      "file": "c050.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 51,
+      "text": "İyilik. Odaklanma. Sabır. Enerji.",
+      "file": "c051.ogg",
+      "durationSec": 11.376
+    },
+    {
+      "index": 52,
+      "text": "Bu kelimeyi bir nefes boyunca tutun.",
+      "file": "c052.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 53,
+      "text": "[durdur:6]",
+      "file": "c053.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 54,
+      "text": "Bu nitelikle sabah boyunca hareket ederken kendinizi görün.",
+      "file": "c054.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 55,
+      "text": "[durdur:5]",
+      "file": "c055.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 56,
+      "text": "[durdur:5]",
+      "file": "c056.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 57,
+      "text": "Parmakları genişçe açın, sonra yumuşak tutun.",
+      "file": "c057.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 58,
+      "text": "Eğer doğru geliyorsa, dudak uçlarını biraz kaldırın.",
+      "file": "c058.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 59,
+      "text": "[durdur:3]",
+      "file": "c059.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 60,
+      "text": "Bir sonraki nefes alışında omurganızın uzadığını hissedin.",
+      "file": "c060.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 61,
+      "text": "Nefes verişinde omuzlarınızın yerleştiğini hissedin.",
+      "file": "c061.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 62,
+      "text": "Bir tane daha parlak nefes alın.",
+      "file": "c062.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 63,
+      "text": "Ve uzun, kolay bir nefes verin.",
+      "file": "c063.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 64,
+      "text": "Parmakları sallayın.",
+      "file": "c064.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 65,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c065.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 66,
+      "text": "Bu sessiz enerjiyi gününüze taşıyın.",
+      "file": "c066.ogg",
+      "durationSec": 5.448
+    }
+  ]
+}

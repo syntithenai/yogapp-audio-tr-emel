@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 165,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Eğer hareketli ya da endişeli hissediyorsanız, buraya hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 1,
+      "text": "Şu anda sakin hissetmeniz gerekmiyor.",
+      "file": "c001.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 2,
+      "text": "Sadece takip edin.",
+      "file": "c002.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 3,
+      "text": "Eğer mümkünse iki ayak da yere koyun.",
+      "file": "c003.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 4,
+      "text": "Dokunuşu hissedin. Ayak bilekleri. Ayak parmakları. Parmak uçları.",
+      "file": "c004.ogg",
+      "durationSec": 13.68
+    },
+    {
+      "index": 5,
+      "text": "Hafifçe aşağıya bastırın. Yerden gelen itme hissini fark edin.",
+      "file": "c005.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 6,
+      "text": "Görebileceğiniz beş şeyi isimlendirin.",
+      "file": "c006.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 7,
+      "text": "Sessizce. Acele etmeyin.",
+      "file": "c007.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 8,
+      "text": "Dokunabildiğiniz dört şeyi isimlendirin.",
+      "file": "c008.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 9,
+      "text": "Giysiler. Sandalye. Cilt üzerindeki hava.",
+      "file": "c009.ogg",
+      "durationSec": 10.272
+    },
+    {
+      "index": 10,
+      "text": "Yakın ya da uzakta duyabileceğiniz üç sesi isimlendirin.",
+      "file": "c010.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 11,
+      "text": "İki koku isimlendirin ya da sadece havayı fark edin.",
+      "file": "c011.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 12,
+      "text": "Bir tat isimlendirin ya da ağzın içindeki hissi fark edin.",
+      "file": "c012.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 13,
+      "text": "Buradasınız. Bu bedende. Bu odada.",
+      "file": "c013.ogg",
+      "durationSec": 9.312
+    },
+    {
+      "index": 14,
+      "text": "Şimdi dört saniye boyunca nefes alın.",
+      "file": "c014.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 15,
+      "text": "İki saniye yumuşakça tut.",
+      "file": "c015.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 16,
+      "text": "Altı saniye dışarı.",
+      "file": "c016.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 17,
+      "text": "İsterseniz tekrar.",
+      "file": "c017.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 18,
+      "text": "Bir elinizi göğüs veya karnınıza koyun.",
+      "file": "c018.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 19,
+      "text": "Elinizin altında hareketi hissedin.",
+      "file": "c019.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 20,
+      "text": "Kaygı hâlâ mevcut olabilir. Bu izin verilir.",
+      "file": "c020.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 21,
+      "text": "Nörolojik sisteminize daha yumuşak bir iniş sağlamışsınız.",
+      "file": "c021.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 22,
+      "text": "Bir nefes daha alın.",
+      "file": "c022.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 23,
+      "text": "Hazır olduğunuzda gözlerinizi açın ve gününüze devam edin.",
+      "file": "c023.ogg",
+      "durationSec": 7.632
+    }
+  ]
+}

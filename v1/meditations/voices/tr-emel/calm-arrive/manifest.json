@@ -1,0 +1,136 @@
+{
+  "id": "calm-arrive",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 116,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Varışınız için bir an ayırın.",
+      "file": "c001.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 2,
+      "text": "Rahat bir oturma pozisyonu bulun, daha iyi hissediyorsanız uzanın.",
+      "file": "c002.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 3,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c003.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 4,
+      "text": "Gözlerinizi kapatın ya da bakışınızı yumuşatın.",
+      "file": "c004.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 5,
+      "text": "Burada olduğunuzu fark edin.",
+      "file": "c005.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 6,
+      "text": "Şu anda düzeltilmesi gereken bir şey yok.",
+      "file": "c006.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 7,
+      "text": "Tamamlanması gereken bir şey yok.",
+      "file": "c007.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 8,
+      "text": "Burnunuzdan yavaş bir nefes alın.",
+      "file": "c008.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 9,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c009.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 10,
+      "text": "Tekrar. Yumuşak bir nefes alımı.",
+      "file": "c010.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 11,
+      "text": "Yavaş bir nefes verme.",
+      "file": "c011.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 12,
+      "text": "Vücudunuzun ağırlığının desteklendiğini hissedin.",
+      "file": "c012.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 13,
+      "text": "Zemin, koltuk, sizi tutan yeryüzü.",
+      "file": "c013.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 14,
+      "text": "Düşünceleriniz dağılacaksa, bu sorun değil.",
+      "file": "c014.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 15,
+      "text": "Sadece fark edin ve bu nefese geri dönün.",
+      "file": "c015.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 16,
+      "text": "Nefes alın. Varın.",
+      "file": "c016.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 17,
+      "text": "Nefes verin. Oturun.",
+      "file": "c017.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 18,
+      "text": "Bir sonraki rahat nefes.",
+      "file": "c018.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 19,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c019.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 20,
+      "text": "Bu sessizliği yanınızda taşıyın.",
+      "file": "c020.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

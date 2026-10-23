@@ -1,0 +1,610 @@
+{
+  "id": "deep-rest-20",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 483,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Derin bir dinlenme uygulamasına hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 1,
+      "text": "Mümkünse sırt üstü yatarak başlayın.",
+      "file": "c001.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 2,
+      "text": "Eğer yardımcı oluyorsa başı ve dizleri destekleyin.",
+      "file": "c002.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 3,
+      "text": "Kolları yanlarınıza bırakın, avuç içleri rahat olsun.",
+      "file": "c003.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 4,
+      "text": "Gözlerinizi kapatın.",
+      "file": "c004.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 5,
+      "text": "Diğer hiçbir yerde olmak yok.",
+      "file": "c005.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 6,
+      "text": "[durdur:23]",
+      "file": "c006.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 7,
+      "text": "Zemin veya yatağa temas noktalarını hissedin.",
+      "file": "c007.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 8,
+      "text": "Ayak bilekleri. Bel. Omuz bıçakları. Baş.",
+      "file": "c008.ogg",
+      "durationSec": 11.424
+    },
+    {
+      "index": 9,
+      "text": "Vücudunuzun tutulmasına izin verin.",
+      "file": "c009.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 10,
+      "text": "[durdur:23]",
+      "file": "c010.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 11,
+      "text": "Doğal nefesinizi fark edin.",
+      "file": "c011.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 12,
+      "text": "Değiştirmenize gerek yok.",
+      "file": "c012.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 13,
+      "text": "Nefes giriyor.",
+      "file": "c013.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 14,
+      "text": "Nefes çıkıyor.",
+      "file": "c014.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 15,
+      "text": "[durdur:25]",
+      "file": "c015.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 16,
+      "text": "Eğer zihin meşgulse, bu da kabul edilir.",
+      "file": "c016.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 17,
+      "text": "Yine de dinlenin.",
+      "file": "c017.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 18,
+      "text": "Sadece hissetmeye geri dönün.",
+      "file": "c018.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 19,
+      "text": "[durdur:23]",
+      "file": "c019.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 20,
+      "text": "Sağ ayakta farkındalığa getirin.",
+      "file": "c020.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 21,
+      "text": "Parmaklar. Ayak tabanı. Topuk.",
+      "file": "c021.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 22,
+      "text": "[durdur:21]",
+      "file": "c022.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 23,
+      "text": "Sağ alt bacak.",
+      "file": "c023.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 24,
+      "text": "Diz.",
+      "file": "c024.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 25,
+      "text": "Uyluk.",
+      "file": "c025.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 26,
+      "text": "[durdur:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 27,
+      "text": "Sağ kalça.",
+      "file": "c027.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 28,
+      "text": "Bütün sağ bacak, ağır ve sessiz.",
+      "file": "c028.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 29,
+      "text": "[durdur:23]",
+      "file": "c029.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 30,
+      "text": "Sol ayak.",
+      "file": "c030.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 31,
+      "text": "Parmaklar. Ayak tabanı. Topuk.",
+      "file": "c031.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 32,
+      "text": "[durdur:21]",
+      "file": "c032.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 33,
+      "text": "Sol alt bacak.",
+      "file": "c033.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 34,
+      "text": "Diz.",
+      "file": "c034.ogg",
+      "durationSec": 2.496
+    },
+    {
+      "index": 35,
+      "text": "Uyluk.",
+      "file": "c035.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 36,
+      "text": "[durdur:21]",
+      "file": "c036.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 37,
+      "text": "Sol kalça.",
+      "file": "c037.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 38,
+      "text": "Bütün sol bacak, ağır ve sessiz.",
+      "file": "c038.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 39,
+      "text": "[durdur:23]",
+      "file": "c039.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 40,
+      "text": "Kuyruk sokumu ve alt karın.",
+      "file": "c040.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 41,
+      "text": "Yumuşak.",
+      "file": "c041.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 42,
+      "text": "[durdur:21]",
+      "file": "c042.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 43,
+      "text": "Göğüs yukarı ve aşağı hareket ediyor.",
+      "file": "c043.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 44,
+      "text": "Kalp alanı açık ve kolay.",
+      "file": "c044.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 45,
+      "text": "[bekleme:23]",
+      "file": "c045.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 46,
+      "text": "Sağ el.",
+      "file": "c046.ogg",
+      "durationSec": 2.928
+    },
+    {
+      "index": 47,
+      "text": "Parmaklar. Palmi. Karpuz.",
+      "file": "c047.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 48,
+      "text": "[bekleme:14]",
+      "file": "c048.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 49,
+      "text": "Sağ kol. Dirsek. Omuz.",
+      "file": "c049.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 50,
+      "text": "[bekleme:21]",
+      "file": "c050.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 51,
+      "text": "Sol el.",
+      "file": "c051.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 52,
+      "text": "Parmaklar. Palmi. Karpuz.",
+      "file": "c052.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 53,
+      "text": "[bekleme:14]",
+      "file": "c053.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 54,
+      "text": "Sol kol. Dirsek. Omuz.",
+      "file": "c054.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 55,
+      "text": "[bekleme:23]",
+      "file": "c055.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 56,
+      "text": "Yanak yumuşak.",
+      "file": "c056.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 57,
+      "text": "Dişler gevşek.",
+      "file": "c057.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 58,
+      "text": "Dil dinleniyor.",
+      "file": "c058.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 59,
+      "text": "[bekleme:21]",
+      "file": "c059.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 60,
+      "text": "Gözler kafeslerinde dinleniyor.",
+      "file": "c060.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 61,
+      "text": "Alnınız düz.",
+      "file": "c061.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 62,
+      "text": "Kafa derisi ve başın tepesi.",
+      "file": "c062.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 63,
+      "text": "[bekleme:23]",
+      "file": "c063.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 64,
+      "text": "Tüm bedeni tek bir sessiz alan olarak hisset.",
+      "file": "c064.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 65,
+      "text": "Soluk, hafif bir dalga gibi onu geçiyor.",
+      "file": "c065.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 66,
+      "text": "[bekleme:62]",
+      "file": "c066.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 67,
+      "text": "Tüm bedeniyle kal.",
+      "file": "c067.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 68,
+      "text": "[bekleme:105]",
+      "file": "c068.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 69,
+      "text": "Yumuşak. Geniş. Huzurlu.",
+      "file": "c069.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 70,
+      "text": "[durdur:55]",
+      "file": "c070.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 71,
+      "text": "Bir düşünce belirirse, bir bulut gibi geçmesine izin ver.",
+      "file": "c071.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 72,
+      "text": "[durdur:50]",
+      "file": "c072.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 73,
+      "text": "Sizi tutulmuş hissetmeye geri dönün.",
+      "file": "c073.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 74,
+      "text": "[durdur:55]",
+      "file": "c074.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 75,
+      "text": "Burada dinlenin.",
+      "file": "c075.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 76,
+      "text": "Çözecek bir şey yok.",
+      "file": "c076.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 77,
+      "text": "Tamamlanacak bir şey yok.",
+      "file": "c077.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 78,
+      "text": "[durdur:110]",
+      "file": "c078.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 79,
+      "text": "Sakınacak olursanız, sorun değil.",
+      "file": "c079.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 80,
+      "text": "Uyanık kalırsanız, bu da sorun değil.",
+      "file": "c080.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 81,
+      "text": "İkisi de dinlenmedir.",
+      "file": "c081.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 82,
+      "text": "[durdur:130]",
+      "file": "c082.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 83,
+      "text": "Dinlenin.",
+      "file": "c083.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 84,
+      "text": "[durdur:115]",
+      "file": "c084.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 85,
+      "text": "Tekrar nefes algılamaya başlayın.",
+      "file": "c085.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 86,
+      "text": "Biraz daha canlı hale geldi.",
+      "file": "c086.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 87,
+      "text": "[durdur:23]",
+      "file": "c087.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 88,
+      "text": "Etrafınızdaki odayı hissedin.",
+      "file": "c088.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 89,
+      "text": "Yakın ve uzak sesleri.",
+      "file": "c089.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 90,
+      "text": "[durdur:21]",
+      "file": "c090.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 91,
+      "text": "Parmaklarınızı hareket ettirin.",
+      "file": "c091.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 92,
+      "text": "Ayak parmaklarınızı hareket ettirin.",
+      "file": "c092.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 93,
+      "text": "İsterseniz bilek ve ayak bileklerinizi yuvarlayın.",
+      "file": "c093.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 94,
+      "text": "[durdur:21]",
+      "file": "c094.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 95,
+      "text": "Daha derin bir nefes alın.",
+      "file": "c095.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 96,
+      "text": "Ve uzun bir iç çekin.",
+      "file": "c096.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 97,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c097.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 98,
+      "text": "Yavaşça geri dönün.",
+      "file": "c098.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 99,
+      "text": "Bu sessizliğin birazını yanınızda taşıyın.",
+      "file": "c099.ogg",
+      "durationSec": 5.928
+    }
+  ]
+}

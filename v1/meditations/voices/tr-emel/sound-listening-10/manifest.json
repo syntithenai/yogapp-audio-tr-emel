@@ -1,0 +1,250 @@
+{
+  "id": "sound-listening-10",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 188,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldin.",
+      "file": "c000.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 1,
+      "text": "Varış için zaman ayır.",
+      "file": "c001.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 2,
+      "text": "Destekli otur ya da yat.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Güvenli geliyorsa gözlerini kapat.",
+      "file": "c003.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 4,
+      "text": "Yere temasını hisset.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "Yavaş nefes al.",
+      "file": "c005.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 6,
+      "text": "Daha uzun bir nefes verin.",
+      "file": "c006.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 7,
+      "text": "[durdur:23]",
+      "file": "c007.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 8,
+      "text": "Tekrar.",
+      "file": "c008.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 9,
+      "text": "[durdur:23]",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "Omuzlarınızı düşürün.",
+      "file": "c010.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 11,
+      "text": "Karnınızı yumuşatın.",
+      "file": "c011.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 12,
+      "text": "[durdur:29]",
+      "file": "c012.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 13,
+      "text": "Kulaklarınızı açın.",
+      "file": "c013.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 14,
+      "text": "En yakın sesi fark edin.",
+      "file": "c014.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 15,
+      "text": "[durdur:29]",
+      "file": "c015.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 16,
+      "text": "Duyabildiğiniz en uzak sesi fark edin.",
+      "file": "c016.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 17,
+      "text": "[durdur:29]",
+      "file": "c017.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 18,
+      "text": "Sesler arasındaki sessizliği fark edin.",
+      "file": "c018.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 19,
+      "text": "[durdur:35]",
+      "file": "c019.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 20,
+      "text": "Sesler doğar ve geçer. Onlara isim vermenize gerek yok.",
+      "file": "c020.ogg",
+      "durationSec": 9.72
+    },
+    {
+      "index": 21,
+      "text": "Duygu duyuyor.",
+      "file": "c021.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 22,
+      "text": "[durdur:47]",
+      "file": "c022.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 23,
+      "text": "Aklınız dağıldığında, dinlemeye geri dönün.",
+      "file": "c023.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 24,
+      "text": "[durdur:35]",
+      "file": "c024.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 25,
+      "text": "Kendi nefes sesinizi dahil edin.",
+      "file": "c025.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 26,
+      "text": "[durdur:35]",
+      "file": "c026.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 27,
+      "text": "Tüm ses ortamında dinlenin.",
+      "file": "c027.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 28,
+      "text": "Bir titreşim alanının canlılığı.",
+      "file": "c028.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 29,
+      "text": "[durdur:90]",
+      "file": "c029.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 30,
+      "text": "Dinlemede çözülmesi gereken hiçbir şey yok.",
+      "file": "c030.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 31,
+      "text": "[durdur:70]",
+      "file": "c031.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 32,
+      "text": "[durdur:35]",
+      "file": "c032.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 33,
+      "text": "Nefes almaya derinleşmeye başlayın.",
+      "file": "c033.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 34,
+      "text": "Burada dinlenin.",
+      "file": "c034.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 35,
+      "text": "[durdur:27]",
+      "file": "c035.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 36,
+      "text": "Yine odayı hissedin.",
+      "file": "c036.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 37,
+      "text": "Parmaklarınızı ve ayak parmaklarınızı hareket ettirin.",
+      "file": "c037.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 38,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c038.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 39,
+      "text": "Bir sonraki adıma yavaşça geçin.",
+      "file": "c039.ogg",
+      "durationSec": 5.184
+    }
+  ]
+}

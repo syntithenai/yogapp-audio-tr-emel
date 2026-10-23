@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 138,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Rahatça oturun. Yüzünüzü gevşetin.",
+      "file": "c000.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 1,
+      "text": "Yardımcı oluyorsa elinizi kalbinizin üzerine koyun.",
+      "file": "c001.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 2,
+      "text": "Basit naziklik ifadeleri sunacağız.",
+      "file": "c002.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 3,
+      "text": "Öncelikle kendinize.",
+      "file": "c003.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 4,
+      "text": "Sessizce benim arkamdan tekrarlayın ya da sadece dinleyin.",
+      "file": "c004.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 5,
+      "text": "Ben güvende olayım.",
+      "file": "c005.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 6,
+      "text": "Ben iyi olayım.",
+      "file": "c006.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 7,
+      "text": "Ben rahat olayım.",
+      "file": "c007.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 8,
+      "text": "Yavaşça tekrarlayın.",
+      "file": "c008.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 9,
+      "text": "Ben güvende olayım.",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "Ben iyi olayım.",
+      "file": "c010.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 11,
+      "text": "Ben rahat olayım.",
+      "file": "c011.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 12,
+      "text": "Eğer bu zor geliyorsa, sorun değil. Dilek ile kalın.",
+      "file": "c012.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 13,
+      "text": "Şimdi, sevmesi kolay birini akıllara getirin.",
+      "file": "c013.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 14,
+      "text": "Bir arkadaş, bir evcil hayvan, nazik bir yabancı.",
+      "file": "c014.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 15,
+      "text": "Onları kısaca hayal edin.",
+      "file": "c015.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 16,
+      "text": "Siz güvende olun.",
+      "file": "c016.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 17,
+      "text": "Siz iyi olun.",
+      "file": "c017.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 18,
+      "text": "Siz rahat olun.",
+      "file": "c018.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 19,
+      "text": "Bir kez daha.",
+      "file": "c019.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 20,
+      "text": "Sizin için güvenli olun.",
+      "file": "c020.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 21,
+      "text": "Sizin için iyi olun.",
+      "file": "c021.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 22,
+      "text": "Sizin için rahat olun.",
+      "file": "c022.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 23,
+      "text": "Doğan ısınmayı hissedin. Ya da sadece bu sözlerde dinlenin.",
+      "file": "c023.ogg",
+      "durationSec": 9.6
+    },
+    {
+      "index": 24,
+      "text": "Kendi nefesinize döner misiniz.",
+      "file": "c024.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 25,
+      "text": "Pratik yapmak için kendinize teşekkür edin.",
+      "file": "c025.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 26,
+      "text": "Hafifçe gözlerinizi açın.",
+      "file": "c026.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

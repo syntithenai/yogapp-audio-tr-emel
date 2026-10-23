@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 111,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bu uygulama uykunun kenarındadır.",
+      "file": "c000.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 1,
+      "text": "Işıkları kısın. Yatın.",
+      "file": "c001.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 2,
+      "text": "Bu an için bitirmek için hiçbir şey kalmadı.",
+      "file": "c002.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 3,
+      "text": "[durdur:24]",
+      "file": "c003.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 4,
+      "text": "Yavaşça nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 5,
+      "text": "Uzun nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 6,
+      "text": "[durdur:24]",
+      "file": "c006.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 7,
+      "text": "Alınını serbest bırakın.",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "Gözleri serbest bırakın.",
+      "file": "c008.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 9,
+      "text": "Çene kaslarını gevşet.",
+      "file": "c009.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 10,
+      "text": "[durdur:29]",
+      "file": "c010.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 11,
+      "text": "Ağırlık kollar. Ağırlık bacaklar.",
+      "file": "c011.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 12,
+      "text": "[durdur:29]",
+      "file": "c012.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 13,
+      "text": "Eğer düşünceler gelirse, onları gece arabaları gibi geçmesine izin ver.",
+      "file": "c013.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 14,
+      "text": "Nefesle birlikte kal.",
+      "file": "c014.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 15,
+      "text": "[durdur:45]",
+      "file": "c015.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 16,
+      "text": "Vücut batıyor.",
+      "file": "c016.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 17,
+      "text": "Nefes sessiz.",
+      "file": "c017.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 18,
+      "text": "[durdur:45]",
+      "file": "c018.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 19,
+      "text": "Eğer uyku gelirse, ona izin ver.",
+      "file": "c019.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 20,
+      "text": "Eğer gelmezse, yine de dinlen.",
+      "file": "c020.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 21,
+      "text": "[durdur:35]",
+      "file": "c021.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 22,
+      "text": "Günün iyi geceler.",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    }
+  ]
+}

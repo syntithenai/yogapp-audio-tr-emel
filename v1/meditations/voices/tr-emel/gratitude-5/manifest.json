@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 164,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldin.",
+      "file": "c000.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu al, eğer daha iyi hissediyorsan uzan.",
+      "file": "c001.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 2,
+      "text": "Ellerini rahat bırak.",
+      "file": "c002.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 3,
+      "text": "Gözlerini yumuşat veya kapat.",
+      "file": "c003.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 4,
+      "text": "Yavaş bir nefes al.",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes ver.",
+      "file": "c005.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 6,
+      "text": "Bugün veya bu hafta sana yardımcı olan küçük bir şeyi aklına getir.",
+      "file": "c006.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 7,
+      "text": "O sıradan olabilir. Sıcak su. Bir mesaj. Duvarın üzerindeki ışık.",
+      "file": "c007.ogg",
+      "durationSec": 14.28
+    },
+    {
+      "index": 8,
+      "text": "[durdur:21]",
+      "file": "c008.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 9,
+      "text": "Bunu dikkatin içinde hafifçe tut.",
+      "file": "c009.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 10,
+      "text": "Göğüs veya yüzte herhangi bir yumuşamayı fark et.",
+      "file": "c010.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 11,
+      "text": "[durdur:26]",
+      "file": "c011.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 12,
+      "text": "Sessizce, bu bir şeye teşekkür edin.",
+      "file": "c012.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 13,
+      "text": "Burada olduğunuz için teşekkür ederim.",
+      "file": "c013.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 14,
+      "text": "[durdur:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 15,
+      "text": "Şimdi ikinci bir şey. Başka bir küçük iyi.",
+      "file": "c015.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 16,
+      "text": "[durdur:26]",
+      "file": "c016.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 17,
+      "text": "Teşekkür ederim.",
+      "file": "c017.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 18,
+      "text": "[durdur:15]",
+      "file": "c018.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 19,
+      "text": "Ve bir tane daha. Üçüncü.",
+      "file": "c019.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 20,
+      "text": "[durdur:26]",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "Şükranı basit tutun. Zorla değil. Sadece fark edin.",
+      "file": "c021.ogg",
+      "durationSec": 10.968
+    },
+    {
+      "index": 22,
+      "text": "[durdur:31]",
+      "file": "c022.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 23,
+      "text": "Birkaç nefes boyunca bu sıcaklığa oturun.",
+      "file": "c023.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 24,
+      "text": "[durdur:41]",
+      "file": "c024.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 25,
+      "text": "Bir tane daha kolay nefes alın.",
+      "file": "c025.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 26,
+      "text": "Parmakları sallayın.",
+      "file": "c026.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 27,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c027.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 28,
+      "text": "Bunun birazını yanınızda taşıyın.",
+      "file": "c028.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

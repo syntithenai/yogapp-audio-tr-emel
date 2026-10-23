@@ -1,0 +1,274 @@
+{
+  "id": "body-scan-10",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 239,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Varış için zaman ayırın.",
+      "file": "c001.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 2,
+      "text": "Destek ile oturun veya yatın.",
+      "file": "c002.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 3,
+      "text": "Güvenli hissediyorsanız gözlerinizi kapatın.",
+      "file": "c003.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 4,
+      "text": "Yerle teması hissedin.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "Yavaş nefes alın.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "Daha uzun bir nefes verin.",
+      "file": "c006.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 7,
+      "text": "[durdur:21]",
+      "file": "c007.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 8,
+      "text": "Tekrar.",
+      "file": "c008.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 9,
+      "text": "[durdur:21]",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "Omuzları düşürün.",
+      "file": "c010.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 11,
+      "text": "Karnı yumuşatın.",
+      "file": "c011.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 12,
+      "text": "[durdur:27]",
+      "file": "c012.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 13,
+      "text": "Başın tepesinden başlayın.",
+      "file": "c013.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 14,
+      "text": "Hissi fark edin, ya da onun eksikliğini.",
+      "file": "c014.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 15,
+      "text": "[durdur:27]",
+      "file": "c015.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 16,
+      "text": "Alın. Gözler. Yüz. Çene.",
+      "file": "c016.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 17,
+      "text": "Yüzünüzü biraz eritmesini sağlayın.",
+      "file": "c017.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 18,
+      "text": "[durdur:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 19,
+      "text": "Boğaz. Boyun. Omuzlar.",
+      "file": "c019.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 20,
+      "text": "Omuzların düşmesini davet edin.",
+      "file": "c020.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 21,
+      "text": "[durdur:32]",
+      "file": "c021.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 22,
+      "text": "Kollar. Dirsekler. Bilekler. Eller. Parmaklar.",
+      "file": "c022.ogg",
+      "durationSec": 14.136
+    },
+    {
+      "index": 23,
+      "text": "[durdur:32]",
+      "file": "c023.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 24,
+      "text": "Göğüs kafesinin yükselip alçalması.",
+      "file": "c024.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 25,
+      "text": "Kalp alanı yumuşak.",
+      "file": "c025.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 26,
+      "text": "[durdur:27]",
+      "file": "c026.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 27,
+      "text": "Karnı. Bel. Kalça.",
+      "file": "c027.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 28,
+      "text": "[durdur:32]",
+      "file": "c028.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 29,
+      "text": "Uyluklar. Dizler. Baldır. Ayak bilekleri. Ayaklar. Parmaklar.",
+      "file": "c029.ogg",
+      "durationSec": 17.496
+    },
+    {
+      "index": 30,
+      "text": "[durdur:38]",
+      "file": "c030.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 31,
+      "text": "Bütün vücudu bir alan olarak hissedin.",
+      "file": "c031.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 32,
+      "text": "Nefes onun içinden geçiyor.",
+      "file": "c032.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 33,
+      "text": "[durdur:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 34,
+      "text": "Eğer gergin bir yer kalırsa, oraya bir nefes verin.",
+      "file": "c034.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 35,
+      "text": "[durdur:43]",
+      "file": "c035.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 36,
+      "text": "Bütün vücut farkındalığında kalın.",
+      "file": "c036.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 37,
+      "text": "[durdur:81]",
+      "file": "c037.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 38,
+      "text": "[durdur:32]",
+      "file": "c038.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 39,
+      "text": "Nefesi derinleştirmeye başlayın.",
+      "file": "c039.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 40,
+      "text": "Yine odayı hissedin.",
+      "file": "c040.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 41,
+      "text": "Parmaklarınızı ve ayak parmaklarınızı hareket ettirin.",
+      "file": "c041.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 42,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c042.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 43,
+      "text": "Bir sonraki adıma yavaşça geçin.",
+      "file": "c043.ogg",
+      "durationSec": 5.184
+    }
+  ]
+}

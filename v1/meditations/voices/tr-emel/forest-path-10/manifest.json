@@ -1,0 +1,664 @@
+{
+  "id": "forest-path-10",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 668,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Sizden hiçbir şey istemeyen bir pozisyona bulun.",
+      "file": "c001.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 2,
+      "text": "İhtiyacınız olan herhangi bir destekle oturun ya da yatın.",
+      "file": "c002.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 3,
+      "text": "Ellerinizi açık ya da gevşek bir şekilde dinlenmeye bırakın.",
+      "file": "c003.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 4,
+      "text": "Gözlerinizi kapamaya ya da yumuşak bir bakışla tutmaya izin verin.",
+      "file": "c004.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 5,
+      "text": "Vücudunuzun yere temas ettiği yerleri hissedin.",
+      "file": "c005.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 6,
+      "text": "Ayak bilekleri, oturak kemikleri, başın arkası veya omurganın uzunluğu.",
+      "file": "c006.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 7,
+      "text": "Şu anda tutacak hiçbir şey yok.",
+      "file": "c007.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 8,
+      "text": "Burun yoluyla yavaş bir nefes alın.",
+      "file": "c008.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 9,
+      "text": "Havanın soğukluğunu gelirken hissedin.",
+      "file": "c009.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 10,
+      "text": "Ve biraz daha uzun bir nefesle dışarı verin.",
+      "file": "c010.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 11,
+      "text": "Nefes verirken sıcaklığı hissedin.",
+      "file": "c011.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 12,
+      "text": "Tekrar. Yumuşak bir nefes alın.",
+      "file": "c012.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 13,
+      "text": "Yavaş bir nefes verin.",
+      "file": "c013.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 14,
+      "text": "Omuzlarınızı biraz düşürün.",
+      "file": "c014.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 15,
+      "text": "Çenenizi gevşetin.",
+      "file": "c015.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 16,
+      "text": "Karnı yumuşak kalsın.",
+      "file": "c016.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 17,
+      "text": "Aynı şekilde üç sessiz nefesle kalın.",
+      "file": "c017.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 18,
+      "text": "Nefes alın. Var olun.",
+      "file": "c018.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 19,
+      "text": "Nefes verin. Oturun.",
+      "file": "c019.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 20,
+      "text": "Aklınız dağılacak olursa, nazikçe fark edin ve bu nefese geri dönün.",
+      "file": "c020.ogg",
+      "durationSec": 1.08
+    },
+    {
+      "index": 21,
+      "text": "Şimdi eski bir ormana yavaşça yürüyüşe başlayın.",
+      "file": "c021.ogg",
+      "durationSec": 0.24
+    },
+    {
+      "index": 22,
+      "text": "Yol iğne ve düşmüş yapraklarla yumuşak.",
+      "file": "c022.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 23,
+      "text": "Her adım sessiz bir ses çıkarır, sonra sessizlik geri döner.",
+      "file": "c023.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 24,
+      "text": "Güneş ışınları yüksek dalların arasından sıcak şeritler halinde geçer.",
+      "file": "c024.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 25,
+      "text": "Kolunuzun ön tarafında bir güneş lekesi hissedin — aniden hafif bir sıcaklık.",
+      "file": "c025.ogg",
+      "durationSec": 10.896
+    },
+    {
+      "index": 26,
+      "text": "Sonra gölge yine, serin ve yeşil.",
+      "file": "c026.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 27,
+      "text": "Bir esinti çatıyı hareket ettirir. Temiz hava yüzünüze ulaşır.",
+      "file": "c027.ogg",
+      "durationSec": 9.792
+    },
+    {
+      "index": 28,
+      "text": "Kahverengi reçine, ıslak toprak ve yosunun temiz tatlı kokusunu hissedin.",
+      "file": "c028.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 29,
+      "text": "Durun. Bir elinizi kabuğa koyun.",
+      "file": "c029.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 30,
+      "text": "Ağaçtaki sessizliğin elinize girerken hissedin.",
+      "file": "c030.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 31,
+      "text": "Daha derin ilerleyin. Dış dünyadaki sesler yok olur.",
+      "file": "c031.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 32,
+      "text": "Bir yerlerde bir nehir küçük parlak hecelerle konuşur.",
+      "file": "c032.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 33,
+      "text": "Su taşların arasında görünene kadar takip edin.",
+      "file": "c033.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 34,
+      "text": "Çökelim. Ellerinizi daldırın. Soğuk ve berraklık.",
+      "file": "c034.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 35,
+      "text": "Biraz bileklerinize sıçratın. Taze hava cildi uyandırır.",
+      "file": "c035.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 36,
+      "text": "Dar bir güneş ışınıyla ısınan düz bir kayanın üzerine oturun.",
+      "file": "c036.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 37,
+      "text": "Oturuş kemiklerinizde ve bacaklarınızın arkasında o ısınmayı hissedin.",
+      "file": "c037.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 38,
+      "text": "Nehrin serin nefesini bacaklarınızın altındaki deriye karşı hissedin.",
+      "file": "c038.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 39,
+      "text": "Kuşlar bir kez seslenir, sonra sessizliği tekrar bırakır.",
+      "file": "c039.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 40,
+      "text": "Ormanın tazeliğini nefes alın.",
+      "file": "c040.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 41,
+      "text": "Etrafını saran sabırlı gövdelerin içine nefes ver.",
+      "file": "c041.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 42,
+      "text": "Omuzlarının istenmeden nasıl düştüğünü fark et.",
+      "file": "c042.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 43,
+      "text": "Başka yerde olacak yer olmadığı zaman çene nasıl yumuşuyor.",
+      "file": "c043.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 44,
+      "text": "Hazır olduğunda dur ve biraz daha ilerle.",
+      "file": "c044.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 45,
+      "text": "Çamurlar, serin yeşil parmaklarıyla baldırını okşuyor.",
+      "file": "c045.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 46,
+      "text": "Bir alan açılıyor — tutulmuş bir nefes kadar yuvarlak.",
+      "file": "c046.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 47,
+      "text": "Derin yosunların üzerine geriye yaslan.",
+      "file": "c047.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 48,
+      "text": "Yer, ağırlığını tamamen alıyor.",
+      "file": "c048.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 49,
+      "text": "Yüzünde filtrelenmiş güneşin sıcaklığı.",
+      "file": "c049.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 50,
+      "text": "Sırtında yosunların serinliği.",
+      "file": "c050.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 51,
+      "text": "Rüzgar geliyor, yapraklar, tekrar geliyor.",
+      "file": "c051.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 52,
+      "text": "Yaşayan bir yer tarafından tutulma hissiyle kal.",
+      "file": "c052.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 53,
+      "text": "Güvenli. Sessiz. Çaba harcamadan aitlik.",
+      "file": "c053.ogg",
+      "durationSec": 10.392
+    },
+    {
+      "index": 54,
+      "text": "Burada beş yavaş nefes say, her biri biraz daha yumuşak.",
+      "file": "c054.ogg",
+      "durationSec": 1.56
+    },
+    {
+      "index": 55,
+      "text": "Tekrar kokuyu fark et — yeşil, nemli, dürüst.",
+      "file": "c055.ogg",
+      "durationSec": 1.56
+    },
+    {
+      "index": 56,
+      "text": "Tekrar sesi fark et — neredeyse hiç yok, ve bu yeterli.",
+      "file": "c056.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 57,
+      "text": "Bir düşünce ortaya çıkarsa, akarsudaki bir yaprak gibi süzülmesine izin ver.",
+      "file": "c057.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 58,
+      "text": "Güneşin seni bulduğu yerdeki tenindeki sıcaklığa geri dön.",
+      "file": "c058.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 59,
+      "text": "O sıcak şeritlerin arasında kalan gölgede serinliğe geri dön.",
+      "file": "c059.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 60,
+      "text": "İçeriye yeterince yürüdün.",
+      "file": "c060.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 61,
+      "text": "Vücudunda bunu kapatmak için üç yavaş nefes bırak.",
+      "file": "c061.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 62,
+      "text": "Ayrılmadan önce, bir kez daha akarsu kenarında dur.",
+      "file": "c062.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 63,
+      "text": "Açık suların taşların etrafında örgü ördüğünü izle.",
+      "file": "c063.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 64,
+      "text": "Hareket eden yüzeyden serin hava yükseliyor.",
+      "file": "c064.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 65,
+      "text": "Sıcak ışık hâlâ kollarının bir şeridini buluyor.",
+      "file": "c065.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 66,
+      "text": "İsterseniz suyu avuçlayın ve alnınızı ıslatın — hayalde, serin ve nazik.",
+      "file": "c066.ogg",
+      "durationSec": 11.376
+    },
+    {
+      "index": 67,
+      "text": "Orman alkışlamaz. Sadece devam eder.",
+      "file": "c067.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 68,
+      "text": "Bu devam etme bir öğreticidir.",
+      "file": "c068.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 69,
+      "text": "Zihinde yolda birkaç sessiz adım atın.",
+      "file": "c069.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 70,
+      "text": "Ayaklar altı iğneler. Yumuşak ses. Yumuşak dönüş.",
+      "file": "c070.ogg",
+      "durationSec": 10.968
+    },
+    {
+      "index": 71,
+      "text": "Yine de açıklığın barışı göğsünüzde depolanan güneş gibi kalır.",
+      "file": "c071.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 72,
+      "text": "Orada hissedin — sternumun arkasındaki sıcaklık.",
+      "file": "c072.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 73,
+      "text": "Burun deliklerinde hâlâ taze bir his hissedin.",
+      "file": "c073.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 74,
+      "text": "Bunları herhangi bir odaya getirebilirsiniz.",
+      "file": "c074.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 75,
+      "text": "Son bir kez dalların arasından bir madeni para büyüklüğünde gökyüzüne bakın.",
+      "file": "c075.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 76,
+      "text": "Yeter.",
+      "file": "c076.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 77,
+      "text": "Şimdi hikayeyi dinlendirin ve duyguyla kalın.",
+      "file": "c077.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 78,
+      "text": "Bu yerin tazeliğini nefes alın.",
+      "file": "c078.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 79,
+      "text": "Sıcaklığı ve sessizliğini nefes verin.",
+      "file": "c079.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 80,
+      "text": "Nefes alın.",
+      "file": "c080.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 81,
+      "text": "Nefes verin.",
+      "file": "c081.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 82,
+      "text": "Tekrar. Yumuşak bir nefes alın.",
+      "file": "c082.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 83,
+      "text": "Uzun bir nefes verin.",
+      "file": "c083.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 84,
+      "text": "Vücudunuzun bu hayalî dünyanın toprağı tarafından tutulduğunu hissedin.",
+      "file": "c084.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 85,
+      "text": "Nefes alın.",
+      "file": "c085.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 86,
+      "text": "Nefes verin.",
+      "file": "c086.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 87,
+      "text": "Eğer düşünceler dağılacak olursa, ciltteki sıcaklığa geri dönün.",
+      "file": "c087.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 88,
+      "text": "Ya da burun deliklerindeki serin havaya.",
+      "file": "c088.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 89,
+      "text": "Nefes alın.",
+      "file": "c089.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 90,
+      "text": "Nefes verin.",
+      "file": "c090.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 91,
+      "text": "Nefes alın.",
+      "file": "c091.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 92,
+      "text": "Nefes verin.",
+      "file": "c092.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 93,
+      "text": "Kalmak. Yumuşat. Devam et.",
+      "file": "c093.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 94,
+      "text": "Nefes alın.",
+      "file": "c094.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 95,
+      "text": "Nefes verin.",
+      "file": "c095.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 96,
+      "text": "Bir sonraki kolay döngü.",
+      "file": "c096.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 97,
+      "text": "Nefes alın.",
+      "file": "c097.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 98,
+      "text": "Nefes verin.",
+      "file": "c098.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 99,
+      "text": "Bu duyguyu birkaç nefes daha tutun.",
+      "file": "c099.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 100,
+      "text": "Sıcaklık. Yumuşaklık. Yeterlilik.",
+      "file": "c100.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 101,
+      "text": "İhtiyacınız olduğunda bu yere dönebilirsiniz.",
+      "file": "c101.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 102,
+      "text": "Bu sadece hayalde değil, dikkatinizde yaşar.",
+      "file": "c102.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 103,
+      "text": "Nefes almayı derinleştirin.",
+      "file": "c103.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 104,
+      "text": "Yine etrafınızdaki odayı hissedin.",
+      "file": "c104.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 105,
+      "text": "Parmakları sallayın. Ayak parmaklarını gevşetin.",
+      "file": "c105.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 106,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c106.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 107,
+      "text": "Bir sonraki kolay nefes alın.",
+      "file": "c107.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 108,
+      "text": "Bu sakinliği bir sonraki şeyinize taşıyın.",
+      "file": "c108.ogg",
+      "durationSec": 5.808
+    }
+  ]
+}
