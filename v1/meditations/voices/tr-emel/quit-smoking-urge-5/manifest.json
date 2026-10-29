@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 249,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Eğer bir istek buradaysa, doğru yerdesiniz.",
+      "file": "c001.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 2,
+      "text": "Onunla savaşmanıza veya onu beslemenize gerek yok.",
+      "file": "c002.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 3,
+      "text": "Dengeli bir oturun, ya da iki ayakla yere basarak durun.",
+      "file": "c003.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 4,
+      "text": "Gözleri yumuşatın, ya da yumuşak bir bakışla tutun.",
+      "file": "c004.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 5,
+      "text": "Yavaş bir nefes alın.",
+      "file": "c005.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 6,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c006.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 7,
+      "text": "[durdur:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 8,
+      "text": "Neyin olduğunu basitçe adlandırın.",
+      "file": "c008.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 9,
+      "text": "Bir istek mevcut.",
+      "file": "c009.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 10,
+      "text": "Bu, beden ve zihinde bir dalgadır.",
+      "file": "c010.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 11,
+      "text": "Bu bir emir değil.",
+      "file": "c011.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 12,
+      "text": "[durdur:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 13,
+      "text": "Nerede hissettiğini fark et.",
+      "file": "c013.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 14,
+      "text": "Göğüs. Boğaz. Eller. Huzursuzluk.",
+      "file": "c014.ogg",
+      "durationSec": 11.04
+    },
+    {
+      "index": 15,
+      "text": "Bunu daha büyük yapmana gerek yok. Sadece yerini belirle.",
+      "file": "c015.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 16,
+      "text": "[durdur:16]",
+      "file": "c016.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 17,
+      "text": "O yere nefes ver.",
+      "file": "c017.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 18,
+      "text": "Yumuşak bir boşluk içine nefes al.",
+      "file": "c018.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 19,
+      "text": "Eylem yapmadan nefes ver.",
+      "file": "c019.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 20,
+      "text": "[durdur:16]",
+      "file": "c020.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 21,
+      "text": "İstekler yükselir, zirveye ulaşır ve düşer.",
+      "file": "c021.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 22,
+      "text": "Sen kıyısın. Dalga geçerken geçer.",
+      "file": "c022.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 23,
+      "text": "[durdur:18]",
+      "file": "c023.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 24,
+      "text": "Beyin, sigara ihtiyacınla ilgili bir hikâye sunarsa, teşekkür et ve geri dön.",
+      "file": "c024.ogg",
+      "durationSec": 9.792
+    },
+    {
+      "index": 25,
+      "text": "Nefese geri dön.",
+      "file": "c025.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 26,
+      "text": "Ayakların yere temas ettiğine geri dön.",
+      "file": "c026.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 27,
+      "text": "[durdur:16]",
+      "file": "c027.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 28,
+      "text": "Yardımcı oluyorsa sessizce.",
+      "file": "c028.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 29,
+      "text": "Bu geçicidir.",
+      "file": "c029.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 30,
+      "text": "Sigara içmeden bunu atlatabilirim.",
+      "file": "c030.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 31,
+      "text": "[durdur:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 32,
+      "text": "Tekrar. Yumuşak bir nefes al.",
+      "file": "c032.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 33,
+      "text": "Uzun bir nefes ver.",
+      "file": "c033.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 34,
+      "text": "[durdur:16]",
+      "file": "c034.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 35,
+      "text": "Hafifçe rahatlamayı fark et.",
+      "file": "c035.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 36,
+      "text": "Ya da kendinle kaldığını fark et.",
+      "file": "c036.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 37,
+      "text": "İkisi de geçerli.",
+      "file": "c037.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 38,
+      "text": "[durdur:16]",
+      "file": "c038.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 39,
+      "text": "Sen, eski bir yankıyla karşılaşılan bir sigarasız kişisin.",
+      "file": "c039.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 40,
+      "text": "İstek ziyaret edebilir. Ama seni ele geçiremez.",
+      "file": "c040.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 41,
+      "text": "[durdur:14]",
+      "file": "c041.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 42,
+      "text": "Bir kez daha kolay bir nefes alın.",
+      "file": "c042.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 43,
+      "text": "Parmakları sallayın.",
+      "file": "c043.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 44,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c044.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 45,
+      "text": "Gününüze özgürce devam edin.",
+      "file": "c045.ogg",
+      "durationSec": 4.992
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 148,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu alın, eğer daha iyi hissediyorsanız uzanın.",
+      "file": "c001.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 2,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c002.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 3,
+      "text": "Gözleri yumuşatın, ya da kapayın.",
+      "file": "c003.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 4,
+      "text": "Yavaş bir nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "Kalbe bir el koyun ya da iki elinizi dizlerinize koyun.",
+      "file": "c006.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 7,
+      "text": "Düzeltmeden, olduğu gibi fark edin.",
+      "file": "c007.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 8,
+      "text": "[durdur:31]",
+      "file": "c008.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 9,
+      "text": "Eğer mücadele varsa, onu kabul edin.",
+      "file": "c009.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 10,
+      "text": "Bu, zorluk anıdır.",
+      "file": "c010.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 11,
+      "text": "Zorluk, insan olmanın bir parçasıdır.",
+      "file": "c011.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 12,
+      "text": "[durdur:39]",
+      "file": "c012.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 13,
+      "text": "Bir arkadaşınıza nasıl yardım edersek, kendimize de aynı şekilde naziklik gösterin.",
+      "file": "c013.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 14,
+      "text": "Kendime nazik olayım.",
+      "file": "c014.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 15,
+      "text": "İhtiyacım olan şefkati kendime veriyorum.",
+      "file": "c015.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 16,
+      "text": "[durdur:39]",
+      "file": "c016.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 17,
+      "text": "Tekrar, yavaşça.",
+      "file": "c017.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 18,
+      "text": "Kendime nazik olayım.",
+      "file": "c018.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 19,
+      "text": "İhtiyacım olan şefkati kendime veriyorum.",
+      "file": "c019.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 20,
+      "text": "[durdur:45]",
+      "file": "c020.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 21,
+      "text": "Eğer oradaysa, kalbe koyduğunuz elin içine nefes alın.",
+      "file": "c021.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 22,
+      "text": "[durdur:39]",
+      "file": "c022.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 23,
+      "text": "Bu yumuşaklığı kazanmak zorunda değilsiniz.",
+      "file": "c023.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 24,
+      "text": "Bir sonraki rahat nefesinizi alın.",
+      "file": "c024.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 25,
+      "text": "Parmaklarınızı hareket ettirin.",
+      "file": "c025.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 26,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c026.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 27,
+      "text": "Biraz bunu yanınızda taşıyın.",
+      "file": "c027.ogg",
+      "durationSec": 4.896
+    }
+  ]
+}

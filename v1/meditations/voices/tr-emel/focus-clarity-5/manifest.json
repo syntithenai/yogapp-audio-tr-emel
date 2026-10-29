@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 168,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu alın, ya da daha iyi hissediyorsanız yatarak oturun.",
+      "file": "c001.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 2,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c002.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 3,
+      "text": "Gözlerinizi yumuşatın ya da kapayın.",
+      "file": "c003.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 4,
+      "text": "Yavaş bir nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "Bir odak noktası seçin. Burun deliklerindeki nefes ya da göbekteki yükselme.",
+      "file": "c006.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 7,
+      "text": "Dikkatinizi orada tutun.",
+      "file": "c007.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 8,
+      "text": "[durdur:23]",
+      "file": "c008.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 9,
+      "text": "Zihin dalgalandığında nereye gittiğini fark edin.",
+      "file": "c009.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 10,
+      "text": "Sonra geri dönün. Nazikçe. Temiz bir şekilde.",
+      "file": "c010.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 11,
+      "text": "[durdur:29]",
+      "file": "c011.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 12,
+      "text": "Geri dönüş egzersizdir.",
+      "file": "c012.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 13,
+      "text": "Nefes alın. Kalın.",
+      "file": "c013.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 14,
+      "text": "Nefes verin. Kalın.",
+      "file": "c014.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 15,
+      "text": "[durdur:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 16,
+      "text": "Yararlı ise, nefes sayısını beş'e kadar sayın, sonra yeniden başlayın.",
+      "file": "c016.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 17,
+      "text": "Bir.",
+      "file": "c017.ogg",
+      "durationSec": 2.424
+    },
+    {
+      "index": 18,
+      "text": "[durdur:17]",
+      "file": "c018.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 19,
+      "text": "İki.",
+      "file": "c019.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 20,
+      "text": "[durdur:17]",
+      "file": "c020.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 21,
+      "text": "Üç.",
+      "file": "c021.ogg",
+      "durationSec": 2.256
+    },
+    {
+      "index": 22,
+      "text": "[durdur:17]",
+      "file": "c022.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 23,
+      "text": "Dört.",
+      "file": "c023.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 24,
+      "text": "[durdur:17]",
+      "file": "c024.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 25,
+      "text": "Beş.",
+      "file": "c025.ogg",
+      "durationSec": 2.52
+    },
+    {
+      "index": 26,
+      "text": "[durdur:23]",
+      "file": "c026.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 27,
+      "text": "Sayıyı bırakın.",
+      "file": "c027.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 28,
+      "text": "Bir an için net, açık dikkatle dinlenin.",
+      "file": "c028.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 29,
+      "text": "[durdur:34]",
+      "file": "c029.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 30,
+      "text": "Bir sonraki rahat nefes alın.",
+      "file": "c030.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 31,
+      "text": "Parmakları sallayın.",
+      "file": "c031.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 32,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c032.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 33,
+      "text": "Bunun bir kısmını yanınızda taşıyın.",
+      "file": "c033.ogg",
+      "durationSec": 5.376
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 132,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu alın, eğer daha iyi hissediyorsanız uzanın.",
+      "file": "c001.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 2,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c002.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 3,
+      "text": "Gözlerinizi yumuşatın ya da kapayın.",
+      "file": "c003.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 4,
+      "text": "Yavaşça bir nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "Bunun kolay olduğunu iddia etmenize gerek yok.",
+      "file": "c006.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 7,
+      "text": "Yorgunluğun gerçeğini kabul edin.",
+      "file": "c007.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 8,
+      "text": "[durdur:31]",
+      "file": "c008.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 9,
+      "text": "İyilikle nefes alın.",
+      "file": "c009.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 10,
+      "text": "İyi olma talebini nefes verin.",
+      "file": "c010.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 11,
+      "text": "[durdur:31]",
+      "file": "c011.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 12,
+      "text": "Bu gece kendime nazik olayım.",
+      "file": "c012.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 13,
+      "text": "Olduğum gibi dinleneyim.",
+      "file": "c013.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 14,
+      "text": "[durdur:31]",
+      "file": "c014.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 15,
+      "text": "Yarın sadece verebileceğim kadar istesin.",
+      "file": "c015.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 16,
+      "text": "[durdur:31]",
+      "file": "c016.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 17,
+      "text": "Vücudunuzun desteklendiğini hissedin.",
+      "file": "c017.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 18,
+      "text": "Bu dakikada daha fazlasına gerek yok.",
+      "file": "c018.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 19,
+      "text": "[durdur:45]",
+      "file": "c019.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 20,
+      "text": "Eğer yardımcı oluyorsa, elinizi kalbine koyun.",
+      "file": "c020.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 21,
+      "text": "Başardın.",
+      "file": "c021.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 22,
+      "text": "[durdur:38]",
+      "file": "c022.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 23,
+      "text": "Bir sonraki rahat nefesini al.",
+      "file": "c023.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 24,
+      "text": "Parmaklarını kıvır.",
+      "file": "c024.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 25,
+      "text": "Hazır olduğunda, gözlerini aç.",
+      "file": "c025.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 26,
+      "text": "Bunu birazcık yanında taşı.",
+      "file": "c026.ogg",
+      "durationSec": 4.704
+    }
+  ]
+}

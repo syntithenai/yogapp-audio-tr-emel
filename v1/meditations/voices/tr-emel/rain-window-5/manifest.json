@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 139,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu alın, eğer daha iyi hissediyorsanız uzanın.",
+      "file": "c001.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 2,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c002.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 3,
+      "text": "Gözlerinizi yumuşatın ya da kapayın.",
+      "file": "c003.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 4,
+      "text": "Yavaşça bir nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "Sessiz bir yağmurlu günde bir pencerenin yanında oturduğunuzu hayal edin.",
+      "file": "c006.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 7,
+      "text": "Cam soğuk. Dışarıdaki dünya yumuşak.",
+      "file": "c007.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 8,
+      "text": "[durdur:30]",
+      "file": "c008.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 9,
+      "text": "Bir hikâye olmadan yağmuru dinleyin.",
+      "file": "c009.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 10,
+      "text": "Küçük vuruşlar. Arada sırada daha ağır düşmeler.",
+      "file": "c010.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 11,
+      "text": "[durdur:36]",
+      "file": "c011.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 12,
+      "text": "Temiz nemli havayı koklayın.",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "Gri ışığı görün, nazik ve acelesiz.",
+      "file": "c013.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 14,
+      "text": "[durdur:30]",
+      "file": "c014.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 15,
+      "text": "Yağmurdan kaçacak bir yer yok.",
+      "file": "c015.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 16,
+      "text": "Durmak için izin.",
+      "file": "c016.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 17,
+      "text": "[durdur:36]",
+      "file": "c017.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 18,
+      "text": "Suyun cam üzerindeki ritmiyle nefes alın.",
+      "file": "c018.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 19,
+      "text": "[durdur:45]",
+      "file": "c019.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 20,
+      "text": "Nöro sistem, sinyali alsin: yumuşaklaşın.",
+      "file": "c020.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 21,
+      "text": "[durdur:36]",
+      "file": "c021.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 22,
+      "text": "Bir sonraki rahat nefes alın.",
+      "file": "c022.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 23,
+      "text": "Parmakları sallayın.",
+      "file": "c023.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 24,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c024.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 25,
+      "text": "Birazını sizle birlikte taşıyın.",
+      "file": "c025.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

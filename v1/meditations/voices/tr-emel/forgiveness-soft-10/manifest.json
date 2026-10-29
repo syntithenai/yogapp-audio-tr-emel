@@ -1,0 +1,238 @@
+{
+  "id": "forgiveness-soft-10",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 193,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldin.",
+      "file": "c000.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 1,
+      "text": "Varış için zaman ayır.",
+      "file": "c001.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 2,
+      "text": "Destekli bir şekilde otur veya yat.",
+      "file": "c002.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 3,
+      "text": "Güvenli geliyorsa gözlerini kapat.",
+      "file": "c003.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 4,
+      "text": "Yerle temas hissini hisset.",
+      "file": "c004.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 5,
+      "text": "Yavaşça nefes al.",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "Uzun nefes ver.",
+      "file": "c006.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 7,
+      "text": "[durdur:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 8,
+      "text": "Tekrar.",
+      "file": "c008.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 9,
+      "text": "[durdur:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 10,
+      "text": "Omuzları düşür.",
+      "file": "c010.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 11,
+      "text": "Karnı yumuşat.",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "[durdur:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 13,
+      "text": "Affı burada, kendi sıkışık yumruğunu bırakmak anlamına gelir.",
+      "file": "c013.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 14,
+      "text": "Zararın önemsizmiş gibi yapmamak.",
+      "file": "c014.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 15,
+      "text": "[durdur:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 16,
+      "text": "Kendine karşı tuttuğun küçük bir şeyle başla.",
+      "file": "c016.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 17,
+      "text": "Bir hata. Bir eksiklik.",
+      "file": "c017.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 18,
+      "text": "[durdur:34]",
+      "file": "c018.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 19,
+      "text": "Sessizce: İnsan olduğum için kendimi affediyorum.",
+      "file": "c019.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 20,
+      "text": "Artık taşıyamayacağım şeyi bırakıyorum.",
+      "file": "c020.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 21,
+      "text": "[durdur:54]",
+      "file": "c021.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 22,
+      "text": "Eğer uygun geliyorsa, başkasıyla ilgili hafif bir zorluk düşün.",
+      "file": "c022.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 23,
+      "text": "En zor hikâye değil. Daha hafif biri.",
+      "file": "c023.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 24,
+      "text": "[durdur:34]",
+      "file": "c024.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 25,
+      "text": "Ne yapabiliyorsam onu bırakıyorum.",
+      "file": "c025.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 26,
+      "text": "Sınırımı koruyorum. Ekstra ağırlığı bırakıyorum.",
+      "file": "c026.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 27,
+      "text": "[durdur:54]",
+      "file": "c027.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 28,
+      "text": "Sıkışmış yerlere nefes ver.",
+      "file": "c028.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 29,
+      "text": "[durdur:68]",
+      "file": "c029.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 30,
+      "text": "Yumruk yumuşadığında açılan alanda dinlen.",
+      "file": "c030.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 31,
+      "text": "[durdur:81]",
+      "file": "c031.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 32,
+      "text": "[durdur:41]",
+      "file": "c032.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 33,
+      "text": "Nefesini derinleştirmeye başla.",
+      "file": "c033.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 34,
+      "text": "Odayı tekrar hisset.",
+      "file": "c034.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 35,
+      "text": "Parmaklarını ve ayak parmaklarını hareket ettir.",
+      "file": "c035.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 36,
+      "text": "Hazır olduğunda gözlerini aç.",
+      "file": "c036.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 37,
+      "text": "Bir sonraki şeyi yavaşça yap.",
+      "file": "c037.ogg",
+      "durationSec": 5.016
+    }
+  ]
+}

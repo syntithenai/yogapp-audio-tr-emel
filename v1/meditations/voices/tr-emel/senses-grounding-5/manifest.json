@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 154,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Eğer dağılmış ya da uyarılmış hissediyorsanız, bu uygulama size yardımcı olabilir.",
+      "file": "c001.ogg",
+      "durationSec": 10.632
+    },
+    {
+      "index": 2,
+      "text": "Şu an için gözlerinizi açık tutmanız daha güvenli hissettiyse yapın.",
+      "file": "c002.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 3,
+      "text": "İkinci ayakınızı zemine yerleştirin.",
+      "file": "c003.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 4,
+      "text": "[bekleme:17]",
+      "file": "c004.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 5,
+      "text": "Görebileceğiniz beş şeyi adlandırın.",
+      "file": "c005.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 6,
+      "text": "Sessizce, zamanınızı alarak yapın.",
+      "file": "c006.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 7,
+      "text": "[bekleme:45]",
+      "file": "c007.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 8,
+      "text": "Hissettiğiniz ya da dokunabildiğiniz dört şeyi adlandırın.",
+      "file": "c008.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 9,
+      "text": "Giyim. Koltuk. Ciltteki hava. Ayaklar zemine.",
+      "file": "c009.ogg",
+      "durationSec": 12.096
+    },
+    {
+      "index": 10,
+      "text": "[bekleme:39]",
+      "file": "c010.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 11,
+      "text": "Üç sesi adlandırın.",
+      "file": "c011.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 12,
+      "text": "Yakın ya da uzak. Yumuşak ya da net.",
+      "file": "c012.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 13,
+      "text": "[bekleme:39]",
+      "file": "c013.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 14,
+      "text": "İki koku adlandırın, veya hava kalitesini sadece fark edin.",
+      "file": "c014.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 15,
+      "text": "[bekleme:28]",
+      "file": "c015.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 16,
+      "text": "Bir tadı adlandırın, ya da ağzınızda hissedileni.",
+      "file": "c016.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 17,
+      "text": "[bekleme:23]",
+      "file": "c017.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 18,
+      "text": "Buradasınız. Bu bedeninizde. Bu odada.",
+      "file": "c018.ogg",
+      "durationSec": 9.576
+    },
+    {
+      "index": 19,
+      "text": "Dört için nefes alın.",
+      "file": "c019.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 20,
+      "text": "Altı için verin.",
+      "file": "c020.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 21,
+      "text": "[bekleme:23]",
+      "file": "c021.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 22,
+      "text": "Bir daha kolay nefes alın.",
+      "file": "c022.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 23,
+      "text": "Parmakları sallayın.",
+      "file": "c023.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 24,
+      "text": "Hazırsanız gözlerinizi açın.",
+      "file": "c024.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 25,
+      "text": "Bu hissi birazla kendinizle beraber taşıyın.",
+      "file": "c025.ogg",
+      "durationSec": 6.576
+    }
+  ]
+}

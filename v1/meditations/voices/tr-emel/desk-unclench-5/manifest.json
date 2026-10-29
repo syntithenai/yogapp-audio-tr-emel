@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 136,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Kaldırılmış pozisyonda kalmayı sürdürün. Bu, çalışma ortasında yapılıyor.",
+      "file": "c001.ogg",
+      "durationSec": 10.92
+    },
+    {
+      "index": 2,
+      "text": "Bir an için ekranı gözden uzaklaştırın.",
+      "file": "c002.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 3,
+      "text": "Eğer mümkünse daha uzağa bakın.",
+      "file": "c003.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 4,
+      "text": "[bekleme:28]",
+      "file": "c004.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 5,
+      "text": "Omuzları yukarı, geri ve aşağı doğru döndürün.",
+      "file": "c005.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 6,
+      "text": "İkinci kez daha yapın.",
+      "file": "c006.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 7,
+      "text": "[bekleme:38]",
+      "file": "c007.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 8,
+      "text": "Elleri açıp kapatın.",
+      "file": "c008.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 9,
+      "text": "Hafifçe sallayın.",
+      "file": "c009.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 10,
+      "text": "[bekleme:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 11,
+      "text": "Alnın dokunuşunu yumuşatın.",
+      "file": "c011.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 12,
+      "text": "Dişlerinizi gevşetin, dilinizi dinlendirin.",
+      "file": "c012.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 13,
+      "text": "[bekleme:38]",
+      "file": "c013.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 14,
+      "text": "Göğüs kemiğinin yanlarına nefes alın.",
+      "file": "c014.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 15,
+      "text": "Nefes verin ve göğsünüzü dinlendirin.",
+      "file": "c015.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 16,
+      "text": "[bekleme:38]",
+      "file": "c016.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 17,
+      "text": "Yavaşça üç kez gözlerinizi kırpın.",
+      "file": "c017.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 18,
+      "text": "[bekleme:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 19,
+      "text": "Bir daha tam nefes alın.",
+      "file": "c019.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 20,
+      "text": "Hazırsanız, biraz daha az gerilerek dönmeye devam edin.",
+      "file": "c020.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 21,
+      "text": "[bekleme:28]",
+      "file": "c021.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 22,
+      "text": "Bir daha kolay nefes alın.",
+      "file": "c022.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 23,
+      "text": "Parmaklarınızı sallayın.",
+      "file": "c023.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 24,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c024.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 25,
+      "text": "Rahatlığı bir sonraki görevinize taşıyın.",
+      "file": "c025.ogg",
+      "durationSec": 5.688
+    }
+  ]
+}

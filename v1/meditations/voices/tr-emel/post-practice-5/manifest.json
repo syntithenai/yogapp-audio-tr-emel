@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 108,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Pratik yaptınız. Şimdi bedenin bunu kabul etmesine izin verin.",
+      "file": "c001.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 2,
+      "text": "Rahatça uzanın veya oturun.",
+      "file": "c002.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 3,
+      "text": "Gözlerinizi kapatın.",
+      "file": "c003.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 4,
+      "text": "[durdur:31]",
+      "file": "c004.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 5,
+      "text": "Sıcaklık, titreşim veya sessiz yorgunluk için tarayın.",
+      "file": "c005.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 6,
+      "text": "Değerlendirme yok. Sadece fark edin.",
+      "file": "c006.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 7,
+      "text": "[durdur:45]",
+      "file": "c007.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 8,
+      "text": "Uzun bir nefes verin.",
+      "file": "c008.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 9,
+      "text": "Tekrar.",
+      "file": "c009.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 10,
+      "text": "[duraklat:38]",
+      "file": "c010.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 11,
+      "text": "Görünümü için bedeni teşşekkür edin.",
+      "file": "c011.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 12,
+      "text": "[duraklat:31]",
+      "file": "c012.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 13,
+      "text": "Çaba, zemine akacak şekilde bırakın.",
+      "file": "c013.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 14,
+      "text": "[duraklat:45]",
+      "file": "c014.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 15,
+      "text": "Bir net nefes alın.",
+      "file": "c015.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 16,
+      "text": "Bir tam nefes verin.",
+      "file": "c016.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 17,
+      "text": "[duraklat:38]",
+      "file": "c017.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 18,
+      "text": "Bir tane daha kolay nefes alın.",
+      "file": "c018.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 19,
+      "text": "Parmakları sallayın.",
+      "file": "c019.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 20,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c020.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 21,
+      "text": "Biraz bunu yanınızda taşıyın.",
+      "file": "c021.ogg",
+      "durationSec": 4.896
+    }
+  ]
+}

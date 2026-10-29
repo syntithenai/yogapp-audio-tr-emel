@@ -1,0 +1,238 @@
+{
+  "id": "evening-unload-10",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 185,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldin.",
+      "file": "c000.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 1,
+      "text": "Varış için zaman ayır.",
+      "file": "c001.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 2,
+      "text": "Destekli otur ya da yat.",
+      "file": "c002.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 3,
+      "text": "Güvenli geliyorsa gözlerini kapat.",
+      "file": "c003.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 4,
+      "text": "Yerle temasını hisset.",
+      "file": "c004.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 5,
+      "text": "Yavaş nefes al.",
+      "file": "c005.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 6,
+      "text": "Uzun nefes ver.",
+      "file": "c006.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 7,
+      "text": "[durdur:26]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "Tekrar.",
+      "file": "c008.ogg",
+      "durationSec": 2.76
+    },
+    {
+      "index": 9,
+      "text": "[durdur:26]",
+      "file": "c009.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 10,
+      "text": "Omuzlarını düşür.",
+      "file": "c010.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 11,
+      "text": "Karnı gevşet.",
+      "file": "c011.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 12,
+      "text": "[durdur:33]",
+      "file": "c012.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 13,
+      "text": "Şimdilik gün bitmiş olsun.",
+      "file": "c013.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 14,
+      "text": "Ne olduysa oldu.",
+      "file": "c014.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 15,
+      "text": "Kalanlar sabaha kadar bekleyebilir.",
+      "file": "c015.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 16,
+      "text": "[durdur:33]",
+      "file": "c016.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 17,
+      "text": "Nefes verirken, görevleri bir rafa koyduğunu hayal et.",
+      "file": "c017.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 18,
+      "text": "Birer birer. Drama yok. Sadece bırak.",
+      "file": "c018.ogg",
+      "durationSec": 9.792
+    },
+    {
+      "index": 19,
+      "text": "[durdur:53]",
+      "file": "c019.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 20,
+      "text": "Dört nefes al. Altı nefes ver.",
+      "file": "c020.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 21,
+      "text": "[durdur:33]",
+      "file": "c021.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 22,
+      "text": "Yüzünü gevşet.",
+      "file": "c022.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 23,
+      "text": "Omuzlarını düşür.",
+      "file": "c023.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 24,
+      "text": "Ağırlık kollar. Ağırlık bacaklar.",
+      "file": "c024.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 25,
+      "text": "[durdur:40]",
+      "file": "c025.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 26,
+      "text": "Eğer zihin tekrar listelemezse, ona başını salla ve rafa geri dön.",
+      "file": "c026.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 27,
+      "text": "[durdur:53]",
+      "file": "c027.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 28,
+      "text": "Yatağın ya da sandalyenin seni tuttuğunu hisset.",
+      "file": "c028.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 29,
+      "text": "[durdur:66]",
+      "file": "c029.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 30,
+      "text": "Nefes daha sessiz. Vücut daha ağır.",
+      "file": "c030.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 31,
+      "text": "[durdur:90]",
+      "file": "c031.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 32,
+      "text": "[durdur:40]",
+      "file": "c032.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 33,
+      "text": "Nefesini derinleştirmeye başla.",
+      "file": "c033.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 34,
+      "text": "Yine odayı hisset.",
+      "file": "c034.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 35,
+      "text": "Parmaklarını ve ayak parmaklarını kıvır.",
+      "file": "c035.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 36,
+      "text": "Hazır olduğunda, gözlerini aç.",
+      "file": "c036.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 37,
+      "text": "Bir sonraki adıma yavaşça geç.",
+      "file": "c037.ogg",
+      "durationSec": 5.256
+    }
+  ]
+}

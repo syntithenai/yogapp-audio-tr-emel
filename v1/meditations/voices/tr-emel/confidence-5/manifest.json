@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 165,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu alın, daha iyi hissediyorsanız uzanın.",
+      "file": "c001.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 2,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c002.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 3,
+      "text": "Gözleri yumuşatın ya da kapatın.",
+      "file": "c003.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 4,
+      "text": "Yavaş bir nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "Oturan kemikleri veya ayakları hissedin.",
+      "file": "c006.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 7,
+      "text": "Altınızda sağlam bir temel.",
+      "file": "c007.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 8,
+      "text": "[durdur:22]",
+      "file": "c008.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 9,
+      "text": "Omurganızı sertleştirmeden uzatın.",
+      "file": "c009.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 10,
+      "text": "Yumuşak yüz. Yumuşak karın. Güçlü merkez.",
+      "file": "c010.ogg",
+      "durationSec": 10.176
+    },
+    {
+      "index": 11,
+      "text": "[durdur:22]",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "Sessizce bu ifadeleri deneyin ya da sadece dinleyin.",
+      "file": "c012.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 13,
+      "text": "Yapmam gerekeni karşılamayı başarabilirim.",
+      "file": "c013.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 14,
+      "text": "[durdur:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 15,
+      "text": "Kendimi geliştirme sürecimde acele etmeme gerek yok.",
+      "file": "c015.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 16,
+      "text": "[durdur:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 17,
+      "text": "Bir sonraki dürüst adımımın güvenini sağlıyorum.",
+      "file": "c017.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 18,
+      "text": "[durdur:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 19,
+      "text": "Göğsüzdeki sıcaklık olarak güveni solunumla alın, zırh olarak değil.",
+      "file": "c019.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 20,
+      "text": "[durdur:28]",
+      "file": "c020.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 21,
+      "text": "Kendinizi bir sıradan zorlukla sakin bir şekilde başa çıkarken görün.",
+      "file": "c021.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 22,
+      "text": "[durdur:33]",
+      "file": "c022.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 23,
+      "text": "Nefese geri dönün.",
+      "file": "c023.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 24,
+      "text": "Sabit. Yeterli.",
+      "file": "c024.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 25,
+      "text": "[durdur:28]",
+      "file": "c025.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 26,
+      "text": "Bir tane daha kolay nefes alın.",
+      "file": "c026.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 27,
+      "text": "Parmakları sallayın.",
+      "file": "c027.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 28,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c028.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 29,
+      "text": "Biraz bunu yanınızda taşıyın.",
+      "file": "c029.ogg",
+      "durationSec": 4.896
+    }
+  ]
+}

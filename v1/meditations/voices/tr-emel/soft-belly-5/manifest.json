@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 160,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu alın, eğer daha iyi hissediyorsanız uzanın.",
+      "file": "c001.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 2,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c002.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 3,
+      "text": "Gözlerinizi yumuşatın ya da kapayın.",
+      "file": "c003.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 4,
+      "text": "Yavaş bir nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "Eğer isterseniz bir elinizi alt karnınıza koyun.",
+      "file": "c006.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 7,
+      "text": "Karnın gergin olup olmadığını fark edin.",
+      "file": "c007.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 8,
+      "text": "[durdur:20]",
+      "file": "c008.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 9,
+      "text": "Sonraki nefes alma sırasında, karnın genişlemesine izin verin.",
+      "file": "c009.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 10,
+      "text": "Nefes verirken, sıkmadan düşmesine izin verin.",
+      "file": "c010.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 11,
+      "text": "[durdur:20]",
+      "file": "c011.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 12,
+      "text": "Tekrar. Yumuşak karn içeri.",
+      "file": "c012.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 13,
+      "text": "Yumuşak karn dışarı.",
+      "file": "c013.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 14,
+      "text": "[durdur:25]",
+      "file": "c014.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 15,
+      "text": "Eğer zihin tartışır, bedeni liderlik etmesine izin verin.",
+      "file": "c015.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 16,
+      "text": "Genişleme. Bırakma.",
+      "file": "c016.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 17,
+      "text": "[durdur:29]",
+      "file": "c017.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 18,
+      "text": "Omuzlar düşer.",
+      "file": "c018.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 19,
+      "text": "Çene gevşer.",
+      "file": "c019.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 20,
+      "text": "Karnın serbest.",
+      "file": "c020.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 21,
+      "text": "[durdur:25]",
+      "file": "c021.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 22,
+      "text": "On sakin yumuşak karn nefesiyle kalın.",
+      "file": "c022.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 23,
+      "text": "[durdur:45]",
+      "file": "c023.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 24,
+      "text": "Gelen herhangi bir rahatlığı fark edin.",
+      "file": "c024.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 25,
+      "text": "[durdur:20]",
+      "file": "c025.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 26,
+      "text": "Burada dinlenin.",
+      "file": "c026.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 27,
+      "text": "[durdur:27]",
+      "file": "c027.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 28,
+      "text": "Bir sonraki rahat nefes alın.",
+      "file": "c028.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 29,
+      "text": "Parmakları kıvırın.",
+      "file": "c029.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 30,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c030.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 31,
+      "text": "Bunu biraz sizde taşıyın.",
+      "file": "c031.ogg",
+      "durationSec": 4.536
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 207,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Uyku için bir uygulamaya hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 1,
+      "text": "Yatın. Koyu renkleri arkadaşınız yapın.",
+      "file": "c001.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 2,
+      "text": "Uyku süresi bitmeden önce uyuyakalabilirsiniz. Bu başarıdır.",
+      "file": "c002.ogg",
+      "durationSec": 9.744
+    },
+    {
+      "index": 3,
+      "text": "[durdur:22]",
+      "file": "c003.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 4,
+      "text": "Yavaş nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 5,
+      "text": "Daha uzun nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 6,
+      "text": "[durdur:22]",
+      "file": "c006.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 7,
+      "text": "Alnınızı gevşetin.",
+      "file": "c007.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 8,
+      "text": "[durdur:18]",
+      "file": "c008.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 9,
+      "text": "Gözlerinizi gevşetin.",
+      "file": "c009.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 10,
+      "text": "[durdur:18]",
+      "file": "c010.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 11,
+      "text": "Çene ve dilinizi gevşetin.",
+      "file": "c011.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 12,
+      "text": "[durdur:22]",
+      "file": "c012.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 13,
+      "text": "Omuzlarınız erisin.",
+      "file": "c013.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 14,
+      "text": "[durdur:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 15,
+      "text": "Kollar ağırdır. Eller açıktır.",
+      "file": "c015.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 16,
+      "text": "[durdur:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 17,
+      "text": "Göğüs yumuşak. Karın yumuşak.",
+      "file": "c017.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 18,
+      "text": "[durdur:22]",
+      "file": "c018.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 19,
+      "text": "Bel ağırdır.",
+      "file": "c019.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 20,
+      "text": "[durdur:22]",
+      "file": "c020.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 21,
+      "text": "Bacaklar ağırdır. Ayaklar ağırdır.",
+      "file": "c021.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 22,
+      "text": "[durdur:27]",
+      "file": "c022.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 23,
+      "text": "Bütün beden yatağa batıyor.",
+      "file": "c023.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 24,
+      "text": "[durdur:36]",
+      "file": "c024.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 25,
+      "text": "Düşünceler uzak trafik gibi.",
+      "file": "c025.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 26,
+      "text": "Onlara takip etmiyorsunuz.",
+      "file": "c026.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 27,
+      "text": "[durdur:45]",
+      "file": "c027.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 28,
+      "text": "Nefes daha sessiz.",
+      "file": "c028.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 29,
+      "text": "[durdur:45]",
+      "file": "c029.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 30,
+      "text": "Daha koyu. Daha yumuşak. Daha yavaş.",
+      "file": "c030.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 31,
+      "text": "[durdur:67]",
+      "file": "c031.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 32,
+      "text": "Bitirmek için hiçbir şey yok.",
+      "file": "c032.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 33,
+      "text": "[durdur:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 34,
+      "text": "Dinlenmek güvenlidir.",
+      "file": "c034.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 35,
+      "text": "[durdur:89]",
+      "file": "c035.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 36,
+      "text": "Uyumak güvenlidir.",
+      "file": "c036.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 37,
+      "text": "[durdur:112]",
+      "file": "c037.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 38,
+      "text": "Hala uyanıksanız, nefes verme sırasında dinlenmeye devam edin.",
+      "file": "c038.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 39,
+      "text": "[durdur:89]",
+      "file": "c039.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 40,
+      "text": "İyi geceler.",
+      "file": "c040.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 41,
+      "text": "[durdur:67]",
+      "file": "c041.ogg",
+      "durationSec": 4.608
+    }
+  ]
+}

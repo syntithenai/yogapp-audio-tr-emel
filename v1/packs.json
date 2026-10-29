@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "tr-emel.zip", "bytes": 62029961, "sha256": "1b2a23950005a098c997f773f4db5e6dfe735568204241a3a3a2bb89e95b2263"}
+  ]
+}

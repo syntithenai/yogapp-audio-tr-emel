@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "tr-emel",
+  "edgeVoice": "tr-TR-EmelNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 136,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Düzgün bir duruşa yerleşin.",
+      "file": "c000.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 1,
+      "text": "Omurganız dik ama sert değil.",
+      "file": "c001.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 2,
+      "text": "Nefesin zaten olduğu gibi dikkatinizi ona getirin.",
+      "file": "c002.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 3,
+      "text": "Henüz değiştirmeyin. Sadece izleyin.",
+      "file": "c003.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 4,
+      "text": "Burun deliklerindeki nefesin soğukluğunu hissedin.",
+      "file": "c004.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 5,
+      "text": "Nefes verirken sıcaklığı hissedin.",
+      "file": "c005.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 6,
+      "text": "Ya da karnın yükselip alçalmasını fark edin.",
+      "file": "c006.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 7,
+      "text": "Dikkatinizi yerleştirmek için bir yer seçin.",
+      "file": "c007.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 8,
+      "text": "Aklınız dağıldığında, nazikçe geri dönün.",
+      "file": "c008.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 9,
+      "text": "Yargılamayın. Sadece geri dönün.",
+      "file": "c009.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 10,
+      "text": "Şimdi, kolay geliyorsa, yumuşak döngüleri sayın.",
+      "file": "c010.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 11,
+      "text": "Nefes alın. Bir.",
+      "file": "c011.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 12,
+      "text": "Nefes verin. Bir.",
+      "file": "c012.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 13,
+      "text": "Nefes alın. İki.",
+      "file": "c013.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 14,
+      "text": "Nefes verin. İki.",
+      "file": "c014.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 15,
+      "text": "Beş'e kadar devam edin, sonra birden başlayın.",
+      "file": "c015.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 16,
+      "text": "Sayıyı kaybederseniz, nazikçe yeniden başlayın.",
+      "file": "c016.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 17,
+      "text": "Geri dönmek uygulamadır.",
+      "file": "c017.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 18,
+      "text": "Nefesi doğal bırakın. Gerginlik yok.",
+      "file": "c018.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 19,
+      "text": "Birkaç döngü daha sessizlik içinde.",
+      "file": "c019.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 20,
+      "text": "Sayıyı bırakın.",
+      "file": "c020.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 21,
+      "text": "Bir an için açık farkındalıkta dinlenin.",
+      "file": "c021.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 22,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c022.ogg",
+      "durationSec": 5.712
+    }
+  ]
+}
